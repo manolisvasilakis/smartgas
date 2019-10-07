@@ -1,5 +1,5 @@
 # Smartgas - Fuel Price Observatory
-This application was developped as part of the 9th semester course, Software Engineering of the National Technical University of Athens, taught by Konstantinos Saidis and Vasilios Veskoukis in the winter semester of 2018. The project was developped by a team of 6 members.
+This application was developped as part of the 9th semester course, Software Engineering of the National Technical University of Athens, taught by Konstantinos Saidis and Vasilios Veskoukis in the winter semester of 2018. The project was developed by a team of 6 members.
 
 ## Task description
 
@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* MySQL and Redis should be installed and configured approprialy. 
+* MySQL and Redis should be installed and configured appropriatly. 
 
 * GULP should be installed too.
 ```
